@@ -1,0 +1,12 @@
+VARUN KUMAR
+Computer Science Engineering Student
+
+Skills
+Python, C++, SQL, Pandas, NumPy, Scikit-learn, Machine Learning, FastAPI, REST API, Git, GitHub, React
+
+Experience
+AI/ML Intern - Built Python data preprocessing and ML pipelines. Created REST APIs with FastAPI.
+Projects
+RAG PDF Chatbot, Sales Dashboard, Intelligent Resume Screening System
+Education
+B.Tech Computer Science Engineering

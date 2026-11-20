@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ml-engineer",
+    "title": "Machine Learning Engineer Intern",
+    "company": "Demo AI Labs",
+    "location": "Remote / India",
+    "skills": [
+      "python",
+      "machine learning",
+      "pandas",
+      "numpy",
+      "scikit-learn",
+      "sql",
+      "git",
+      "rest api"
+    ],
+    "description": "Build and evaluate machine learning models. Clean and analyze datasets, create features, expose models through REST APIs, write Python services, and collaborate using Git."
+  },
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst Intern",
+    "company": "Demo Analytics",
+    "location": "Chandigarh / Hybrid",
+    "skills": [
+      "python",
+      "sql",
+      "pandas",
+      "numpy",
+      "power bi",
+      "statistics",
+      "excel",
+      "git"
+    ],
+    "description": "Analyze business data, create dashboards and reports, write SQL queries, use Python and Pandas for analysis, and communicate actionable insights to stakeholders."
+  },
+  {
+    "id": "ai-engineer",
+    "title": "AI / GenAI Engineer Intern",
+    "company": "Demo GenAI Studio",
+    "location": "Remote / India",
+    "skills": [
+      "python",
+      "llm",
+      "generative ai",
+      "rag",
+      "transformers",
+      "fastapi",
+      "rest api",
+      "git"
+    ],
+    "description": "Develop AI applications using large language models, retrieval augmented generation, transformer models and Python APIs. Build prototypes, evaluate outputs and deploy services."
+  },
+  {
+    "id": "fullstack",
+    "title": "Full Stack Developer Intern",
+    "company": "Demo Software",
+    "location": "Remote / India",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "html",
+      "css",
+      "sql",
+      "git",
+      "rest api"
+    ],
+    "description": "Develop responsive web applications using React and JavaScript, build backend APIs with Node.js, work with SQL databases, and collaborate through Git."
+  }
+]
